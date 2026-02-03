@@ -1,0 +1,699 @@
+{
+  "FogDistance": [
+    0,
+    1024.0
+  ],
+  "Particle": {
+    "SystemId": "Dust_Sparkles_Fine",
+    "Color": "#00d7ff",
+    "Scale": 2
+  },
+  "SkyTopColors": [
+    {
+      "Hour": 0,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 1,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 2,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 3,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 4,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 5,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 6,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 7,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 8,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 9,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 10,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 11,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 12,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 13,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 14,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 15,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 16,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 17,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 18,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 19,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 20,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 21,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 22,
+      "Color": "#050828ff"
+    },
+    {
+      "Hour": 23,
+      "Color": "#050828ff"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 0,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 1,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 2,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 3,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 4,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 5,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 6,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 7,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 8,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 9,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 10,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 11,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 12,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 13,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 14,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 15,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 16,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 17,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 18,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 19,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 20,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 21,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 22,
+      "Color": "#273539"
+    },
+    {
+      "Hour": 23,
+      "Color": "#273539"
+    }
+  ],
+  "FogHeightFalloffs": [
+    {
+      "Hour": 0,
+      "Value": 2
+    },
+    {
+      "Hour": 1,
+      "Value": 2
+    },
+    {
+      "Hour": 2,
+      "Value": 2
+    },
+    {
+      "Hour": 3,
+      "Value": 2
+    },
+    {
+      "Hour": 4,
+      "Value": 2
+    },
+    {
+      "Hour": 5,
+      "Value": 2
+    },
+    {
+      "Hour": 6,
+      "Value": 2
+    },
+    {
+      "Hour": 7,
+      "Value": 2
+    },
+    {
+      "Hour": 8,
+      "Value": 2
+    },
+    {
+      "Hour": 9,
+      "Value": 2
+    },
+    {
+      "Hour": 10,
+      "Value": 2
+    },
+    {
+      "Hour": 11,
+      "Value": 2
+    },
+    {
+      "Hour": 12,
+      "Value": 2
+    },
+    {
+      "Hour": 13,
+      "Value": 2
+    },
+    {
+      "Hour": 14,
+      "Value": 2
+    },
+    {
+      "Hour": 15,
+      "Value": 2
+    },
+    {
+      "Hour": 16,
+      "Value": 2
+    },
+    {
+      "Hour": 17,
+      "Value": 2
+    },
+    {
+      "Hour": 18,
+      "Value": 2
+    },
+    {
+      "Hour": 19,
+      "Value": 2
+    },
+    {
+      "Hour": 20,
+      "Value": 2
+    },
+    {
+      "Hour": 21,
+      "Value": 2
+    },
+    {
+      "Hour": 22,
+      "Value": 2
+    },
+    {
+      "Hour": 23,
+      "Value": 2
+    }
+  ],
+  "FogDensities": [
+    {
+      "Hour": 0,
+      "Value": 0.5
+    },
+    {
+      "Hour": 1,
+      "Value": 0.5
+    },
+    {
+      "Hour": 2,
+      "Value": 0.5
+    },
+    {
+      "Hour": 3,
+      "Value": 0.5
+    },
+    {
+      "Hour": 4,
+      "Value": 0.5
+    },
+    {
+      "Hour": 5,
+      "Value": 0.5
+    },
+    {
+      "Hour": 6,
+      "Value": 0.5
+    },
+    {
+      "Hour": 7,
+      "Value": 0.5
+    },
+    {
+      "Hour": 8,
+      "Value": 0.5
+    },
+    {
+      "Hour": 9,
+      "Value": 0.5
+    },
+    {
+      "Hour": 10,
+      "Value": 0.5
+    },
+    {
+      "Hour": 11,
+      "Value": 0.5
+    },
+    {
+      "Hour": 12,
+      "Value": 0.5
+    },
+    {
+      "Hour": 13,
+      "Value": 0.5
+    },
+    {
+      "Hour": 14,
+      "Value": 0.5
+    },
+    {
+      "Hour": 15,
+      "Value": 0.5
+    },
+    {
+      "Hour": 16,
+      "Value": 0.5
+    },
+    {
+      "Hour": 17,
+      "Value": 0.5
+    },
+    {
+      "Hour": 18,
+      "Value": 0.5
+    },
+    {
+      "Hour": 19,
+      "Value": 0.5
+    },
+    {
+      "Hour": 20,
+      "Value": 0.5
+    },
+    {
+      "Hour": 21,
+      "Value": 0.5
+    },
+    {
+      "Hour": 22,
+      "Value": 0.5
+    },
+    {
+      "Hour": 23,
+      "Value": 0.5
+    }
+  ],
+  "ScreenEffect": "ScreenEffects/Snow.png",
+  "ScreenEffectColors": [
+    {
+      "Hour": 0,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 1,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 2,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 3,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 4,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 5,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 6,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 7,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 8,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 9,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 10,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 11,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 12,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 13,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 14,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 15,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 16,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 17,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 18,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 19,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 20,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 21,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 22,
+      "Color": "#88eaffa5"
+    },
+    {
+      "Hour": 23,
+      "Color": "#88eaffa5"
+    }
+  ],
+  "Stars": "Sky/Stars.png",
+  "MoonGlowColors": [
+    {
+      "Hour": 0,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 1,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 2,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 3,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 4,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 5,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 6,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 7,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 8,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 9,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 10,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 11,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 12,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 13,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 14,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 15,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 16,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 17,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 18,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 19,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 20,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 21,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 22,
+      "Color": "#3bd3f3ff"
+    },
+    {
+      "Hour": 23,
+      "Color": "#3bd3f3ff"
+    }
+  ],
+  "SunGlowColors": [
+    {
+      "Hour": 0,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 1,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 2,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 3,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 4,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 5,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 6,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 7,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 8,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 9,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 10,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 11,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 12,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 13,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 14,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 15,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 16,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 17,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 18,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 19,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 20,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 21,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 22,
+      "Color": "#5df0f9ff"
+    },
+    {
+      "Hour": 23,
+      "Color": "#5df0f9ff"
+    }
+  ]
+}

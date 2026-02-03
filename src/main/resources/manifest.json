@@ -1,0 +1,9 @@
+{
+  "Group": "com.modjam",
+  "Name": "EchoesOfTheMachine",
+  "Version": "1.0.0",
+  "Description": "Plugin for Modjam theme \"Echoes of the Machine\"",
+  "Authors": [{"Name": "AmTekken"}],
+  "Main": "com.modjam.echoesofthemachine.EchoesOfTheMachinePlugin",
+  "IncludesAssetPack": true
+}

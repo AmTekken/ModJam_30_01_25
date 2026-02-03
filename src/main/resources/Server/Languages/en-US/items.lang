@@ -1,0 +1,2 @@
+echo_device.name = Echo Device
+echo_device.description = Device that gives you access to the echo state

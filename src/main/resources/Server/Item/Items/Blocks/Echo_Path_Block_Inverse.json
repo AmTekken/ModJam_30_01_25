@@ -1,0 +1,96 @@
+{
+  "TranslationProperties": {
+    "Name": "EchoBlockInverse"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/ItemsGenerated/Rock_Cobblestone_Mossy.png",
+  "PlayerAnimationsId": "Item",
+  "InteractionVars": {
+    "Torch_Swing_Left_Effect": "Torch_Swing_Left_Effect",
+    "Torch_Swing_Right_Effect": "Torch_Swing_Right_Effect",
+    "Torch_Swing_Left_Damage": "Torch_Swing_Left_Damage",
+    "Torch_Swing_Right_Damage": "Torch_Swing_Right_Damage"
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Opacity": "Transparent",
+    "BlockEntity": {
+      "Components": {
+        "EchoBlock": {
+          "Config": {
+            "OnState": "On",
+            "OffState": "Off"
+          }
+        }
+      }
+    },
+    "PlacementSettings": {
+      "RotationMode": "BlockNormal",
+      "PlaceInEmptyBlocks": true
+    },
+    "VariantRotation": "NESW",
+    "BlockParticleSetId": "Dust",
+    "BlockSoundSetId": "Torch",
+    "State": {
+      "Definitions": {
+        "Off": {
+          "AmbientSoundEventId": "SFX_Torch_On_Loop"
+        },
+        "On": {
+          "AmbientSoundEventId": null,
+          "DrawType": "Empty",
+          "Material": "Empty",
+          "Opacity": "Transparent"
+        }
+      }
+    },
+    "Support": {
+      "North": [
+        {
+          "FaceType": "Full",
+          "Support": "Ignored"
+        }
+      ],
+      "Down": [
+        {
+          "FaceType": "Full",
+          "Support": "Ignored"
+        }
+      ]
+    },
+    "AmbientSoundEventId": "SFX_Torch_Default_Loop",
+    "Looping": true,
+    "Textures": [
+      {
+        "All": "BlockTextures/Rock_Stone_Cobble_Mossy.png"
+      }
+    ],
+    "MaxSupportDistance": 0
+  },
+  "IconProperties": {
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Scale": 0.81,
+    "Translation": [
+      5.7,
+      -19.5
+    ]
+  },
+  "Tags": {
+    "Type": [
+      "Stone"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone",
+  "Variant": true,
+  "Interactions": {
+    "Secondary": {
+      "Parent": "Block_Secondary"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Type": "Simple",
+  "Next": {
+    "Type": "Parallel",
+    "Interactions": [
+      {
+        "Interactions": [
+          {
+            "Type": "Simple",
+            "Effects": {
+              "LocalSoundEventId": "SFX_Echo_Device_Activating"
+            }
+          }
+        ]
+      },
+      {
+        "Interactions": [
+          {
+            "Type": "EchoesOfTheMachine_ActivateEchoState_Interaction"
+          }
+        ]
+      }
+    ]
+  }
+}

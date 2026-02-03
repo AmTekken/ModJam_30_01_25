@@ -1,0 +1,36 @@
+{
+  "Animations": {
+    "Idle": {
+      "FirstPerson": "Characters/Animations/Items/Off_Handed/Echo_Device/Idle_FPS.blockyanim",
+      "Speed": 0.5,
+      "Looping": true,
+      "ThirdPerson": "Characters/Animations/Items/Off_Handed/Torch/Idle.blockyanim"
+    }
+  },
+  "WiggleWeights": {
+    "X": 3.5,
+    "XDeceleration": 0.1,
+    "Y": 0.1,
+    "YDeceleration": 0.1,
+    "Z": 0.1,
+    "ZDeceleration": 0.1,
+    "Roll": 0.1,
+    "RollDeceleration": 0.1,
+    "Pitch": 2.5,
+    "PitchDeceleration": 0.15
+  },
+  "UseFirstPersonOverrides": false,
+  "Camera": {
+    "Yaw": {
+      "TargetNodes": [
+        "Head"
+      ]
+    },
+    "Pitch": {
+      "TargetNodes": [
+        "Head",
+        "LShoulder"
+      ]
+    }
+  }
+}

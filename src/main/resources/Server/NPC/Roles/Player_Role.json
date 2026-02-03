@@ -1,0 +1,29 @@
+{
+  "Type": "Generic",
+  "Appearance": "Mannequin",
+  "MaxHealth": { "Compute": "MaxHealth" },
+  "StartState": "Idle",
+  "Parameters": {
+    "MaxHealth": {
+      "Value": 1000,
+      "Description": "Max health for the NPC"
+    }
+  },
+  "MotionControllerList": [
+    {
+      "Type": "Walk"
+    }
+  ],
+  "Instructions": [
+    {
+      "Sensor": {
+        "Type": "State",
+        "State": "Idle"
+      },
+      "BodyMotion": {
+        "Type": "Nothing"
+      }
+    }
+  ],
+  "NameTranslationKey": "server.npcRoles.Empty_Role.name"
+}
